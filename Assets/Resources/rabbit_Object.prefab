@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d17dc76a12e588438653496110c27cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mergeVFX: {fileID: 7974932606129742101, guid: 4c0f12a9a3fee9b4daec3ef80b3befd8, type: 3}
+  mergeVFX: {fileID: 151244, guid: 8368975de5593844bbfaf74e342fb326, type: 3}
 --- !u!61 &604847507318674439
 BoxCollider2D:
   m_ObjectHideFlags: 0
